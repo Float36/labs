@@ -1,0 +1,25 @@
+2024-11-07 22:23:02 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:23:10 [main] INFO  truck.ConsoleMenu - Displaying available coffee in the shop.
+2024-11-07 22:23:10 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:23:13 [main] ERROR truck.ConsoleMenu - Input mismatch: null
+2024-11-07 22:25:05 [main] INFO  truck.ConsoleMenu - Displaying available coffee in the shop.
+2024-11-07 22:25:05 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:25:09 [main] ERROR truck.ConsoleMenu - Input mismatch: null
+2024-11-07 22:27:39 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:27:43 [main] INFO  truck.ConsoleMenu - Displaying available coffee in the shop.
+2024-11-07 22:27:43 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:27:47 [main] INFO  truck.ConsoleMenu - Selecting coffee from available options.
+2024-11-07 22:27:48 [main] INFO  truck.ConsoleMenu - Loading coffee into the truck: Зернова кава
+2024-11-07 22:28:00 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:28:06 [main] ERROR truck.ConsoleMenu - Input mismatch: null
+2024-11-07 22:31:48 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:31:53 [main] INFO  truck.ConsoleMenu - Displaying available coffee in the shop.
+2024-11-07 22:31:53 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:32:01 [main] ERROR truck.ConsoleMenu - Input mismatch: null
+2024-11-07 22:32:19 [main] INFO  truck.ConsoleMenu - Exiting the program.
+2024-11-07 22:38:08 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:38:17 [main] INFO  truck.ConsoleMenu - Displaying available coffee in the shop.
+2024-11-07 22:38:17 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:41:46 [main] INFO  truck.ConsoleMenu - Displaying available coffee in the shop.
+2024-11-07 22:41:46 [main] INFO  truck.ConsoleMenu - Displaying menu options.
+2024-11-07 22:41:58 [main] ERROR truck.ConsoleMenu - Input mismatch: null
